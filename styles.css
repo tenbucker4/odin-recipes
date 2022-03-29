@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    background-color: rgb(73, 73, 73);
+    color: white;
+}
+
+.main-heading {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 32;
+    font-weight: bold;
+}
+
+.main-text {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 18;
+}
+
+.subheading {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 24;
+}
+
+.main-image {
+    width: 500px;
+    height: auto;
+}
